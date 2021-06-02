@@ -24,7 +24,7 @@ To setup on your local machine:
 4. Activate the conda environment and register it with Jupyter:
 
    ```bash
-   conda activate reco_gpu*
+   conda activate reco_gpu
    python -m ipykernel install --user --name reco_base --display-name "Python (reco)"
    ```
 
