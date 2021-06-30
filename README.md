@@ -36,6 +36,12 @@ To setup on your local machine:
 
 ## Algorithm
 
-See in lstur_MIND.ipynb
+See in [lstur_MIND.ipynb](lstur_MIND.ipynb)
 
 Remember to use Tensorflow1.15.2, otherwise there are some modules cannot be found. 
+
+Students‘ name&ID: 
+
+孙文萱  201811130189
+
+赵诗语  202021210007
