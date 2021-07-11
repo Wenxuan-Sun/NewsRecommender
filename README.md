@@ -40,7 +40,13 @@ See in [lstur_MIND.ipynb](lstur_MIND.ipynb)
 
 Remember to use Tensorflow1.15.2, otherwise there are some modules cannot be found. 
 
-Students‘ name&ID: 
+## DATA SET
+
+For quicker training and evaluaiton, we sample MINDdemo dataset of 5k users from [MIND small dataset](https://msnews.github.io/). The MINDdemo dataset has the same file format as MINDsmall and MINDlarge. If you want to try experiments on MINDsmall and MINDlarge, please change the dowload source. Select the MIND_type parameter from ['large', 'small', 'demo'](https://43b52cf5-63f1-4a88-9f26-2ff4e8f0e242.vscode-webview-test.com/vscode-resource/file///Users/sunwenxuan/NewsRecommender/) to choose dataset.
+
+**MINDdemo_train** is used for training, and **MINDdemo_dev** is used for evaluation. Training data and evaluation data are composed of a news file and a behaviors file. You can find more detailed data description in [MIND repo](https://github.com/msnews/msnews.github.io/blob/master/assets/doc/introduction.md)
+
+## Students‘ name&ID
 
 孙文萱  201811130189
 
